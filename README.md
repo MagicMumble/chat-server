@@ -11,4 +11,4 @@ Now it's time to compile and run the project (supposingly you are in the same di
     go build server.go
     ./server
     
-Before running the project you need to initialize database by running a file `createDB.go` (only once). 
+Before running the project you need to initialize database and main entities User, Chat, Message by running a file `createDB.go` (only once). 
